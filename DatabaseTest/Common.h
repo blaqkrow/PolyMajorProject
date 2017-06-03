@@ -1,0 +1,3 @@
+//ONLY CAN USE ONE AT ONE TIME
+#define USE_LINUX
+//#define USE_WINDOWS
